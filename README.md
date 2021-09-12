@@ -1,0 +1,2 @@
+# Language-Classification-using-Machine-Learning
+In this repository I have experimented with Natural Language Processing approaches and classification algorithms on the task of Language Classification. I have used classification algorithms such as Random Forest, XGBoost, SVM, Decision Tree, AdaBoost and Naive Bayes and TF-IDF and CountVectorizer and other text preprocessing approaches for preprocessing and preparing the data for classification algorithms.
